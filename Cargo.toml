@@ -30,7 +30,7 @@ linefeed = "0.6"
 semver = "0.9"
 rustyline = "6"
 lazy_static = "1"
-ed25519-dalek = "1.0.0-pre.4"
+ed25519-dalek = "2.0.0"
 x25519-dalek = "0.6"
 # Fixing issue with bitvec
 funty = "=1.1.0"
