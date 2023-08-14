@@ -22,7 +22,7 @@ easy-jsonrpc-mw = "0.5.3"
 chrono = { version = "0.4.4", features = ["serde"] }
 ring = "0.16"
 base64 = "0.9"
-ed25519-dalek = "1.0.0-pre.4"
+ed25519-dalek = "2.0.0"
 colored = "1.6"
 x25519-dalek = "0.6"
 
